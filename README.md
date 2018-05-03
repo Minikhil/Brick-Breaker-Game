@@ -1,2 +1,2 @@
 # Brick-Breaker-Game
-Created an old fashioned Brick Breaker game
+2D old fashioned Brick Breaker game
